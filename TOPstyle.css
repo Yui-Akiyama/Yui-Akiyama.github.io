@@ -1,0 +1,32 @@
+body {
+    max-width: 750px;
+    margin: 0 auto;
+    font-family: 'Yu Gotic', 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #B9DFFF;
+}
+
+h1 {
+    font-size: 32px;
+    border-bottom: 5px solid #ffbcff;;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-size: 24px;
+    color: #666;
+    margin-top: 10px;
+}
+
+.label {
+    font-weight: bold;
+    color: #555;
+}
+
+.item {
+    margin-bottom: 10px;
+}
+
+.profile-section {
+    margin-top: 40px;
+}
